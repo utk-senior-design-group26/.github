@@ -1,4 +1,4 @@
-## UTK Senior Design Group 26 - Automated Medication Dispenser
+## UTK Senior Design Group 26 - Smart Medication Dispenser
 
 Group Members:
 - Hamza Awad
