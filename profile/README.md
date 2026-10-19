@@ -4,6 +4,6 @@ Group Members:
 - Hamza Awad
 - Minh Cao
 - Jake Garland
-- Phillip Vickery
+- Philip Vickery
 - Larry Wang
 - Jacob Yuill
